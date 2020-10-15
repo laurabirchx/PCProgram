@@ -6,4 +6,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.2.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.6.0" />
+    <PackageReference Include="MahApps.Metro.Resources" Version="0.6.1" />
+  </ItemGroup>
+
 </Project>
